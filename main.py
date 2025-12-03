@@ -1,0 +1,1 @@
+print("Habit Garden Project Initialized")
